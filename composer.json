@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^8",
         "jwilsson/spotify-web-api-php": "^2.6"
     },
     "require-dev": {
